@@ -1,0 +1,19 @@
+/*
+  Minimal style to ensure that varying width products all display the same way
+*/
+#amazon_post_purchase TR TD {
+  text-align:center;
+}
+.amznpp_product_img {
+  width: 98%;
+}
+LABEL.amazon-post-purchase {
+  font-weight: bolder;
+  padding-top: 4px;
+}
+SMALL.amazon-post-purchase {
+  text-align:center;
+  font-weight:lighter;
+  margin: 0px !important;
+  
+}
